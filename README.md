@@ -1,3 +1,5 @@
+![gitartwork](gitartwork.svg)
+
 # 👋 Hi, I'm Rahul Rathore
 
 **A passionate MERN Stack Developer || Problem Solver || Tech Enthusiast from India 🇮🇳**
