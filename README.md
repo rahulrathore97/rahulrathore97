@@ -1,4 +1,4 @@
-![gitartwork](gitartwork.svg)
+
 
 # 👋 Hi, I'm Rahul Rathore
 
